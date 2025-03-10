@@ -4,4 +4,4 @@ app = FastAPI()
 
 @app.get("/")
 def home():
-    return {"message": "Hello from FastAPI with Docker!"}
+    return {"message": "Hello from FastAPI with Docker New!"}
